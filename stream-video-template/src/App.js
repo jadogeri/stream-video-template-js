@@ -1,3 +1,4 @@
+/**
 import logo from './logo.svg';
 import './App.css';
 
@@ -24,9 +25,7 @@ function App() {
 
 export default App;
 
-/**
- * 
- * 
+**/
  import {
   CallControls,
   CallingState,
@@ -83,4 +82,3 @@ export const MyUILayout = () => {
     </StreamTheme>
   );
 };
- */
