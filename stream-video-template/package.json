@@ -4,6 +4,7 @@
   "homepage": "https://jadogeri.github.io/stream-video-template-js/",
   "private": true,
   "dependencies": {
+    "@stream-io/video-react-sdk": "^1.19.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
